@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.pdb
